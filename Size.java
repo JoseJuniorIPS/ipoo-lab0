@@ -1,9 +1,9 @@
 
 /**
- * Enumeration class Size - write a description of the enum class here
+ * Introdução ao GitHub
  *
  * @author (your name here)
- * @version (version number or date here)
+ * @version 2.0
  */
 public enum Size
 {
